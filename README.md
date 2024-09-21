@@ -3,9 +3,9 @@
  </div>
 <div>
  <h2>contact</h2>
- <"a href="https://t.me/nicot_10>
-   <img src='https://st2.depositphotos.com/6708478/10759/v/450/depositphotos_107592380-stock-illustration-icon-of-paper-plane-white.jpg'   style="width:70px;height:70px;"/>
-  </a>
+<"a href="https://t.me/nicot_10>
+   <img  src='https://st2.depositphotos.com/6708478/10759/v/450/depositphotos_107592380-stock-illustration-icon-of-paper-plane-white.jpg'   style="width:70px;height:70px;"/>
+</a>
 </div>
 <div>
 <h2>Languages</h3>
