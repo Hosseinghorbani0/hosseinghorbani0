@@ -11,6 +11,6 @@
 <div>
  <h2>Contact</h2>
 <a href="https://t.me/nicot_10"><img src="https://icons.veryicon.com/png/System/Captiva/web%20telegram.png" width="55" height="55" ></a>
- 
+<a href="https://hosseingh1068@gmail.com"><img src="https://img.freepik.com/premium-psd/3d-email-icon_578110-166.jpg" width="55" height="55" ></a>
 
 </div>
