@@ -9,6 +9,6 @@
 
 </div>
 <div>
-<h2>Languages</h3>
+<h2>Skills</h3>
 <img src='https://skillicons.dev/icons?i=py,aiscript,opencv,cmake,js,html,css,bootstrap&perline=4' />
 </div>
