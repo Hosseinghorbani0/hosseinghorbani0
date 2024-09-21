@@ -3,7 +3,7 @@
  </div>
 <div>
  <h2>contact</h2>
-<a href="https://t.me/nicot_10"><img src="https://icons.veryicon.com/png/System/Captiva/web%20telegram.png" width="70" height="70" ></a>
+<a href="https://t.me/nicot_10"><img src="https://icons.veryicon.com/png/System/Captiva/web%20telegram.png" width="55" height="55" ></a>
  
 
 </div>
