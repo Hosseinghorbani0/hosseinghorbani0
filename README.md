@@ -4,9 +4,9 @@
 <div>
  <h2>contact</h2>
 
-   <img  src='https://cdn-icons-png.flaticon.com/512/2111/2111673.png'   style="width:70px;height:70px;"/>
-<"a href="https://t.me/nicot_10>
-</a>
+   <img  src='https://cdn-icons-png.flaticon.com/512/2111/2111673.png' <"a href="https://t.me/nicot_10>
+</a>  style="width:70px;height:70px;"/>
+
 </div>
 <div>
 <h2>Languages</h3>
