@@ -2,7 +2,7 @@
 <div>
  <h2>contact</h2>
   
- <img src='[email-filtering-angle-text-triangle-thumbnail.png](https://www.svgrepo.com/show/346442/telegram-fill.svg)'   style="width:50px;height:60px;"/>
+ <img src='https://www.svgrepo.com/show/346442/telegram-fill.svg'   style="width:50px;height:60px;"/>
 </div>
 <h3>Languages</h3>
 <img src='https://skillicons.dev/icons?i=py,aiscript,opencv,cmake,js,html,css,bootstrap&perline=4' />
