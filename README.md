@@ -3,7 +3,7 @@
  </div>
 <div>
  <h2>contact</h2>
-<a href="https://t.me/nicot_10"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111673.png"  ></a>
+<a href="https://t.me/nicot_10"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111673.png" width="500" height="600" ></a>
  
 
 </div>
