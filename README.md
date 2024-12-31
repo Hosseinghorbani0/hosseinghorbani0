@@ -22,7 +22,8 @@
 
 * been working professionally in this field for two years and with my expertise in advanced programming languages ​​and frameworks, I can help you achieve your goals. 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓I have a thorough understanding of **artificial intelligence** that can be used in data analysis and machine learning projects.
+.
 
 * 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
