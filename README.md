@@ -34,7 +34,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [*Mouse-control-with-face-and-eyes*](https://github.com/hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | !
+| [*Mouse-control-with-face-and-eyes*](https://github.com/hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | 
 [OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Bert Rinehart
 
