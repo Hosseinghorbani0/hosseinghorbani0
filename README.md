@@ -35,7 +35,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [*Mouse-control-with-face-and-eyes*](https://github.com/hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | 
-
+https://camo.githubusercontent.com/40113db3f32c78c5ed0dc6b451a12d529b7ad4bf7605a0069a6324f53595ef74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6f70656e6376
 
  Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Bert Rinehart Novels](https://github.com/drkostas/Bert-Rinehart-Novels) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
