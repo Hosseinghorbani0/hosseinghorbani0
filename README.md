@@ -35,8 +35,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [*Mouse-control-with-face-and-eyes*](https://github.com/hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | 
-[OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Bert Rinehart
+
 
  Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Bert Rinehart Novels](https://github.com/drkostas/Bert-Rinehart-Novels) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
