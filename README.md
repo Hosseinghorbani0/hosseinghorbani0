@@ -35,8 +35,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 |[*Mouse-control-with-face-and-eyes*](https://github.com/hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![Open CV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-|[*cancer*](https://github.com/hosseinghorbani0/cancer) | <img alt="Stars" src="https://img.shields.io/github/stars/hosseinghorbani0/Minecraft-AI?style=flat-square&labelColor=black"/> | ![Numpy](https://camo.githubusercontent.com/95ec0c2d43de37b1de9b062511f90a8b5397a855d018568974ea8a358088ecb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d50792d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6e756d7079
-)|
+|[*cancer*](https://github.com/hosseinghorbani0/cancer) | <img alt="Stars" src="https://img.shields.io/github/stars/hosseinghorbani0/Minecraft-AI?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) |
 
 
 
