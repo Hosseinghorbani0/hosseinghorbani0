@@ -48,9 +48,6 @@
 
 
 
-|[**](https://github.com/Hosseinghorbani0/cancer) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![Open CV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-
-
 
 
 
