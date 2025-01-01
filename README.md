@@ -20,7 +20,7 @@
 
 </p>
 
-* been working professionally in this field for two years and with my expertise in advanced programming languages ​​and frameworks, I can help you achieve your goals. 
+* 🪂 been working professionally in this field for two years and with my expertise in advanced programming languages ​​and frameworks, I can help you achieve your goals. 
 
 * 🎓I have a thorough understanding of **artificial intelligence** that can be used in data analysis and machine learning projects.
 .
