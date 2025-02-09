@@ -5,10 +5,11 @@
 <br/>
 
 
-<a href="hosseingh1068@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
 
+
+<a href="mailto:hosseingh1068@gmail.com" style="display: block; text-align: center; margin: 0 auto; transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="ارسال ایمیل">
+</a>
 
 <!-- <a href="https://github.com/hosseinghorbani0">
     <img src="https://github-readme-stats.vercel.app/api?username=hosseinghorbani0&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
