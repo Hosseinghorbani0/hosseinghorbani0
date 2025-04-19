@@ -35,7 +35,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-|[* Smart-Coach*](https://github.com/Hosseinghorbani0/Smart-Coach/blob/master/README.md) | <img alt="Stars" src="https://img.shields.io/github/stars/hosseinghorbani0/Minecraft-AI?style=flat-square&labelColor=black"/> |
+|[*Smart-Coach*](https://github.com/Hosseinghorbani0/Smart-Coach/blob/master/README.md) | <img alt="Stars" src="https://img.shields.io/github/stars/hosseinghorbani0/Minecraft-AI?style=flat-square&labelColor=black"/> |
 |[*Mouse-control-with-face-and-eyes*](https://github.com/hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/hosseinghorbani0/Minecraft-AI?style=flat-square&labelColor=black"/> | ![Open CV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 |[*cancer*](https://github.com/hosseinghorbani0/cancer) | <img alt="Stars" src="https://img.shields.io/github/stars/hosseinghorbani0/Minecraft-AI?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 
