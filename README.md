@@ -1,82 +1,70 @@
-<!-- 🧠 Hossein Ghorbani - Clean & Professional GitHub Profile -->
-
-<h1 align="center">👋 Hi, I'm Hossein Ghorbani</h1>
-<h3 align="center">AI Researcher | Software Engineer | Bot Developer</h3>
+<!-- ===========================
+     Hossein Ghorbani — Profile
+     Ready-to-use README.md
+     Uses readme-typing-svg (Typing SVG) with your params
+   =========================== -->
 
 <p align="center">
+  <!-- Typing SVG (your style). If the image fails to load, the alt text will be visible. -->
+  <a href="https://github.com/hosseinghorbani0" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=700&height=90&lines=hossein+Ghorbani;Researcher+%7C+Programmer+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots"
+         alt="Hossein Ghorbani — Researcher | Programmer | Software Engineer — AI | Computer Vision | Bots"
+         style="max-width:100%;"/>
+  </a>
+</p>
+
+<!-- Fallback header (visible if images blocked) -->
+<h1 align="center">👋 Hossein Ghorbani</h1>
+<p align="center"><em>Researcher | Programmer | Software Engineer — AI · Computer Vision · Bots</em></p>
+
+<p align="center">
+  <!-- Prominent centered buttons -->
+  <a href="https://hosseinghorbani0.ir" target="_blank" rel="noopener noreferrer">
+    <img alt="Website" src="https://img.shields.io/badge/🌐-hosseinghorbani0.ir-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:hosseingh1068@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img alt="Email" src="https://img.shields.io/badge/✉️-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://hosseinghorbani0.ir" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://github.com/hosseinghorbani0">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  &nbsp;
+  <a href="https://github.com/hosseinghorbani0" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧩 About Me  
-💻 Passionate about **AI, Computer Vision, and Automation**.  
-🚀 Experienced with **Python, PyTorch, OpenCV, FastAPI, and Telegram Bots**.  
-🔬 Currently researching **Masked Image Modeling** for **Remote Sensing Applications**.  
-🎯 Turning complex challenges into elegant, automated solutions.  
+## 🧠 دربارهٔ من
+- علاقه‌مند به **هوش مصنوعی، بینایی ماشین** و ساخت ابزارهای خودکار.  
+- تجربه با **Python**, **PyTorch**, **OpenCV**, **FastAPI**, و **Telegram Bots**.  
+- در حال تحقیق روی **Masked Image Modeling** برای داده‌های سنجش از دور.
 
 ---
 
-### 🚀 Open-Source Projects  
+## 🚀 پروژه‌های اوپن‌سورس برجسته
 
-<table align="center">
-<tr>
-  <th>Project</th>
-  <th>Stars</th>
-  <th>Technologies</th>
-</tr>
-
-<tr>
-  <td><a href="https://github.com/Hosseinghorbani0/Smart-Coach"><b>Smart-Coach</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/Smart-Coach?style=flat-square&labelColor=black"/></td>
-  <td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"/> <img src="https://img.shields.io/badge/MachineLearning-black?style=flat-square&logo=tensorflow"/></td>
-</tr>
-
-<tr>
-  <td><a href="https://github.com/Hosseinghorbani0/Mouse-control-with-face-and-eyes"><b>Mouse Control with Face & Eyes</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/Mouse-control-with-face-and-eyes?style=flat-square&labelColor=black"/></td>
-  <td><img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv"/> <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/></td>
-</tr>
-
-<tr>
-  <td><a href="https://github.com/Hosseinghorbani0/cancer"><b>Cancer Detection</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/cancer?style=flat-square&labelColor=black"/></td>
-  <td><img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy"/></td>
-</tr>
-
-<tr>
-  <td><a href="https://github.com/Hosseinghorbani0/youtube-telegram-bot-ai-subtitle"><b>YouTube Telegram Bot (AI Subtitle)</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/youtube-telegram-bot-ai-subtitle?style=flat-square&labelColor=black"/></td>
-  <td><img src="https://img.shields.io/badge/Telegram%20Bot-black?style=flat-square&logo=telegram"/> <img src="https://img.shields.io/badge/FFmpeg-black?style=flat-square&logo=ffmpeg"/> <img src="https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai"/></td>
-</tr>
-
-</table>
+| پروژه | ستاره‌ها | تکنولوژی‌ها |
+|---|---:|---|
+| [Smart-Coach](https://github.com/Hosseinghorbani0/Smart-Coach) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/Smart-Coach?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [Mouse-control-with-face-and-eyes](https://github.com/Hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/Mouse-control-with-face-and-eyes?style=flat-square&labelColor=black"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [cancer](https://github.com/Hosseinghorbani0/cancer) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/cancer?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+| [youtube-telegram-bot-ai-subtitle](https://github.com/Hosseinghorbani0/youtube-telegram-bot-ai-subtitle) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/youtube-telegram-bot-ai-subtitle?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Telegram](https://img.shields.io/badge/Telegram%20Bot-black?style=flat-square&logo=telegram) ![FFmpeg](https://img.shields.io/badge/FFmpeg-black?style=flat-square&logo=ffmpeg) |
 
 ---
 
-### 📊 GitHub Stats  
+## 📌 نحوهٔ قرار دادن این README
+1. به ریپازیتوری گیت‌هاب خود برو.  
+2. فایل `README.md` را باز یا بساز.  
+3. محتوای بالا را جایگزین کن و Commit کن — تمام!
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosseinghorbani0&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hosseinghorbani0&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hosseinghorbani0&theme=dracula" />
-</p>
+---
+
+## 📬 تماس
+- وب‌سایت: https://hosseinghorbani0.ir  
+- ایمیل: hosseingh1068@gmail.com
 
 ---
 
 <p align="center">
-  🌐 <b>Check out my website:</b>  
-  <a href="https://hosseinghorbani0.ir" target="_blank"><b>hosseinghorbani0.ir</b></a>
-</p>
-
-<p align="center">
-  <i>Crafted with ❤️ by Hossein Ghorbani</i>
+  <sub>Crafted with ❤️ — Updated to use your Typing-SVG style (font=Georgia, size=18, duration=2000, multiline).</sub>
 </p>
