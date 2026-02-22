@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://github.com/hosseinghorbani0">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hossein+Ghorbani;Researcher+%7C+Programmer+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
@@ -36,6 +34,7 @@
 
 | Title | Stars | Technologies |
 |--|--|--|
+| [**askai-python**](https://github.com/Hosseinghorbani0/ask-ai) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/ask-ai?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![LLM API](https://img.shields.io/badge/LLM%20SDK-black?style=flat-square&logo=openai) |
 | [**Smart-Coach**](https://github.com/Hosseinghorbani0/Smart-Coach) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/Smart-Coach?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [**Mouse Control with Face and Eyes**](https://github.com/Hosseinghorbani0/Mouse-control-with-face-and-eyes) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/Mouse-control-with-face-and-eyes?style=flat-square&labelColor=black"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | [**Cancer Detection**](https://github.com/Hosseinghorbani0/cancer) | <img alt="Stars" src="https://img.shields.io/github/stars/Hosseinghorbani0/cancer?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
