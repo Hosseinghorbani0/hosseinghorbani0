@@ -68,3 +68,5 @@
 <p align="center">
   <sub>✨ Designed with care — Hossein Ghorbani | <a href="https://hosseinghorbani0.ir" target="_blank">hosseinghorbani0.ir</a></sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=12" width="100%" />
