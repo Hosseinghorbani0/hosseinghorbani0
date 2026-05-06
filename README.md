@@ -69,4 +69,27 @@
   <sub>✨ Designed with care — Hossein Ghorbani | <a href="https://hosseinghorbani0.ir" target="_blank">hosseinghorbani0.ir</a></sub>
 </p>
 
+
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alllynnn/Alllynnn/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alllynnn/Alllynnn/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Alllynnn/Alllynnn/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════  FOOTER  ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+
+
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=12" width="100%" />
