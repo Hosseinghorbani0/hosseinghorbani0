@@ -212,24 +212,7 @@ See everything on the [Repositories tab](https://github.com/Hosseinghorbani0?tab
 
 </div>
 
-> Note: the stats/top-languages cards from github-readme-stats kept failing because the shared public instance is rate-limited by GitHub's API — this is a widely reported issue with that free service, not something wrong in this file. The streak card above uses a different, more reliable instance so it renders fine. If you want a live, auto-updating stats card, the permanent fix is deploying your own free instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) on Vercel with your own GitHub token (a few minutes, one-time setup) — happy to walk you through it if you want.
 
-<!--
-  Snake animation — this needs its own data source (see snake.yml).
-  Once you've added .github/workflows/snake.yml to THIS repo and it has
-  run at least once (Actions tab → "Generate Snake Animation" → Run workflow),
-  delete the comment markers around the block below to turn it on.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hosseinghorbani0/Hosseinghorbani0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hosseinghorbani0/Hosseinghorbani0/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Hosseinghorbani0/Hosseinghorbani0/output/github-snake.svg" />
-</picture>
-
-</div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
