@@ -89,4 +89,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=12" width="100%" />
 
 
-<!-- update for pull shark -->
+<p align="center">🚀 Updated README</p>
