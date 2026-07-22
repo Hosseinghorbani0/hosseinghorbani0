@@ -21,7 +21,7 @@
 
 ## About Me
 
-- AI/ML engineer with **2+ years** of hands-on experience in computer vision, applied ML and automation
+- AI/ML engineer with **4+ years** of hands-on experience in computer vision, applied ML and automation
 - Currently building **Masked Image Modeling** models for **Remote Sensing** imagery
 - Creator & maintainer of **[askai-python](https://pypi.org/project/askai-python/)** — one SDK to call OpenAI, Gemini, Groq, Anthropic, Azure & OpenRouter with a single line of code
 - I like turning ML/CV research into small, practical tools — Telegram bots, coaching systems, real-time vision apps
